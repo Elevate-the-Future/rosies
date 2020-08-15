@@ -52,9 +52,9 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-about"
+                    href="#section-home"
                   >
-                    Menu
+                    Order Now
                   </a>
                 </li>
                 <li className="nav-item">
@@ -62,7 +62,7 @@ export default class Navbar extends Component {
                     className="nav-link text-uppercase pb_letter-spacing-2"
                     href="#section-menu"
                   >
-                    The Team
+                    Menu
                   </a>
                 </li>
                 <li className="nav-item logo-center d-xl-block d-lg-block d-md-none d-sm-none d-none">
@@ -82,7 +82,6 @@ export default class Navbar extends Component {
                       src={
                         LogoImage
                       }
-                      style={{marginTop: '-1vh'}}
                       alt="Instant Logo"
                       className="dark"
                     />
@@ -91,15 +90,15 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-gallery"
+                    href="#section-team"
                   >
-                    Order Now
+                    The Team
                   </a>
                 </li>
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-events"
+                    href="#section-hours"
                   >
                     Hours
                   </a>
