@@ -1,2 +1,3 @@
-# Rosie's
-Project Falcon: Website for Rosie's by Alvin Zheng
+# React-Static - Blank Template
+
+To use this template, run `react-static create` and select the `blank` template.
