@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rosies/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rosies/static/js/main.33e330ad.chunk.js",
+    "main.js.map": "/rosies/static/js/main.33e330ad.chunk.js.map",
+    "runtime-main.js": "/rosies/static/js/runtime-main.fa807c25.js",
+    "runtime-main.js.map": "/rosies/static/js/runtime-main.fa807c25.js.map",
+    "static/js/2.911820ac.chunk.js": "/rosies/static/js/2.911820ac.chunk.js",
+    "static/js/2.911820ac.chunk.js.map": "/rosies/static/js/2.911820ac.chunk.js.map",
+    "index.html": "/rosies/index.html",
+    "precache-manifest.01454fce49d7235b2c0b8321906d83a1.js": "/rosies/precache-manifest.01454fce49d7235b2c0b8321906d83a1.js",
+    "service-worker.js": "/rosies/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rosies/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.911820ac.chunk.js.LICENSE.txt": "/rosies/static/js/2.911820ac.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rosies/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa807c25.js",
+    "static/js/2.911820ac.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.33e330ad.chunk.js"
+  ]
+}
