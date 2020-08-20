@@ -22,7 +22,7 @@ export default class LandingSection extends Component {
                 </div>
                 <p>
                   <a
-                    href="#"
+                    href="#section-menu"
                     role="button"
                     className="btn smoothscroll pb_outline-light rounded-2 btn-xl pb_font-17 pb_letter-spacing-2 p-3"
                   >

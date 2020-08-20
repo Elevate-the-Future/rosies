@@ -52,17 +52,17 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-home"
+                    href="#section-menu"
                   >
-                    Order Now
+                    Menu
                   </a>
                 </li>
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-menu"
+                    href="#section-gallery"
                   >
-                    Menu
+                    Gallery
                   </a>
                 </li>
                 <li className="nav-item logo-center d-xl-block d-lg-block d-md-none d-sm-none d-none">
