@@ -14,7 +14,7 @@ export default class LandingSection extends Component {
           <div className="container">
             <div className="row align-items-center justify-content-center">
               <div className="col-md-9  order-md-1">
-                <h1 className="heading mb-3" style={{fontFamily: "'Dancing Script', 'cursive'"}}>Rosie's</h1>
+                <h1 className="heading mb-3" style={{fontFamily: "'Dancing Script', 'cursive'"}}>Good Vibes. Better Food</h1>
                 <div className="sub-heading">
                   <p className="mb-5">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

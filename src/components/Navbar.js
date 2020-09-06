@@ -98,9 +98,9 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-hours"
+                    href="#section-contact"
                   >
-                    Hours
+                    Contact
                   </a>
                 </li>
               </ul>

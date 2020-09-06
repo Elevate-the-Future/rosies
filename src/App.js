@@ -4,10 +4,9 @@ import { Head } from 'react-static'
 import NavBar from './components/Navbar';
 import LandingSection from './components/LandingSection';
 import MenuSection from './components/MenuSection';
-import Separator from './components/Separator';
 import TeamSection from './components/TeamSection';
-import Separator2 from './components/Separator2';
-import HoursSection from './components/HoursSection';
+import GallerySection from './components/GallerySection';
+import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -25,10 +24,9 @@ class App extends Component {
         <NavBar/>
         <LandingSection/>
         <MenuSection/>
-        <Separator/>
         <TeamSection/>
-        <Separator2/>
-        <HoursSection/>
+        <GallerySection/>
+        <ContactSection/>
         <Footer/>
       </>
     )
