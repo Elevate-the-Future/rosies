@@ -98,7 +98,7 @@ export default class AboutSection extends Component {
                             <div className="row">
                               <div className="col-lg-10">
                                 <h3 className="pb_font-18 font-weight-bold">
-                                  Fish & Grits
+                                  Fish &amp; Grits
                                 </h3>
                                 <p className="mb-0">
                                   Cornmeal crusted fish, tomato gravy, collard green kimchi.
@@ -115,7 +115,7 @@ export default class AboutSection extends Component {
                             <div className="row">
                               <div className="col-lg-10">
                                 <h3 className="pb_font-18 font-weight-bold">
-                                  Shrimp & Grits
+                                  Shrimp &amp; Grits
                                 </h3>
                                 <p className="mb-0">
                                   Cajun shrimps, smoked sausage, roasted tomato.
@@ -132,7 +132,7 @@ export default class AboutSection extends Component {
                             <div className="row">
                               <div className="col-lg-10">
                                 <h3 className="pb_font-18 font-weight-bold">
-                                  Chicken & Waffle
+                                  Chicken &amp; Waffle
                                 </h3>
                                 <p className="mb-0">
                                   Hot chicken, pickles
@@ -149,7 +149,7 @@ export default class AboutSection extends Component {
                             <div className="row">
                               <div className="col-lg-10">
                                 <h3 className="pb_font-18 font-weight-bold">
-                                  Chicken & Waffle + Biscuit
+                                  Chicken &amp; Waffle + Biscuit
                                 </h3>
                                 <p className="mb-0">
                                   Hot chicken, pickles
@@ -408,7 +408,7 @@ export default class AboutSection extends Component {
             <div className="row justify-content-center mb-5">
               <div className="col-md-10 text-center">
                 <a
-                  href="https://pos.toasttab.com/"
+                  href="https://www.toasttab.com/rosies"
                   target="_blank"
                   role="button"
                   className="btn smoothscroll pb_outline-dark rounded-2 btn-xl pb_font-17 pb_letter-spacing-2 p-3"
