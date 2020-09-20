@@ -8,7 +8,8 @@ export default class LandingSection extends Component {
       <>
         <section
           className="pb_cover_v1 cover-bg-black cover-bg-opacity-4 text-center"
-          style={{backgroundImage: `url(${BackgroundImage})`, filter: 'contrast(88%)', minHeight: '100vh'}}
+          // backgroundImage: `url(${BackgroundImage})`
+          style={{backgroundColor: `#500805`, filter: 'contrast(88%)', minHeight: '100vh'}}
           id="section-home"
         >
           <div className="container">
