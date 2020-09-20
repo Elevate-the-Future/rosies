@@ -9,6 +9,7 @@ export default class GallerySection extends Component {
                     <div className="row justify-content-center mb-5">
                     <div className="col-md-10 text-center">
                         <h2 className="mb-4 text-uppercase pb_letter-spacing-2">Gallery</h2>
+                        <button role="button" onClick={() => {window.open('https://www.instagram.com/liamwong/', '_blank')}} className="btn btn-ins btn-outline-primary" style={{cursor: 'pointer'}}><i className="fab fa-instagram pr-1"></i> Instagram</button>
                     </div>
                     </div>
                     <div className="row">

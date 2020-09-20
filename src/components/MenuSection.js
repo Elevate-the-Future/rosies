@@ -87,13 +87,10 @@ export default class AboutSection extends Component {
                                   Roasted mushrooms, garlic chip. Parm, multi-grain.
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>14.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -107,13 +104,10 @@ export default class AboutSection extends Component {
                                   Cornmeal crusted fish, tomato gravy, collard green kimchi.
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>15.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -127,13 +121,10 @@ export default class AboutSection extends Component {
                                   Cajun shrimps, smoked sausage, roasted tomato.
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>16.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -147,13 +138,10 @@ export default class AboutSection extends Component {
                                   Hot chicken, pickles
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>14.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -167,13 +155,10 @@ export default class AboutSection extends Component {
                                   Hot chicken, pickles
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>15.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -195,13 +180,10 @@ export default class AboutSection extends Component {
                                   Orange creme anglaise, berry, pistachio
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>12.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -215,13 +197,10 @@ export default class AboutSection extends Component {
                                  Pineapple, apricot, crunchy oats
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>6.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -235,13 +214,10 @@ export default class AboutSection extends Component {
                                   Guava glaze
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>3.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -263,13 +239,10 @@ export default class AboutSection extends Component {
                                   Lorem ipsum
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>4.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -283,13 +256,10 @@ export default class AboutSection extends Component {
                                   Lorem ipsum
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>6.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -303,13 +273,10 @@ export default class AboutSection extends Component {
                                   Lorem ipsum
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>4.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -331,13 +298,10 @@ export default class AboutSection extends Component {
                                   Argyle Coffee Roasters, Brazilian
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>3.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -351,13 +315,10 @@ export default class AboutSection extends Component {
                                   English Breakfast - Moroccan mint, Raspberry Hibiscus
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>3.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -371,13 +332,10 @@ export default class AboutSection extends Component {
                                   Lime
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>3.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -391,13 +349,10 @@ export default class AboutSection extends Component {
                                   Seasonal fruit
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>3.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -419,13 +374,10 @@ export default class AboutSection extends Component {
                                   Hot chicken, lemon ailoi, pickles, spiced yucca chips + a drink
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>15.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -439,13 +391,10 @@ export default class AboutSection extends Component {
                                   Hot fish, slaw, pickles, spiced yucca chips + a drink
                                 </p>
                               </div>
-                              <div className="col-lg-1">
+                              <div className="col-lg-2">
                                 <span className="price">
                                   <sup>$</sup>16.00
                                 </span>
-                              </div>
-                              <div className="col-lg-1">
-                                <button type="button" className="btn btn-outline-dark" style={{"float":"left","cursor":"pointer"}}>Add to Cart</button>
                               </div>
                             </div>
                           </li>
@@ -454,6 +403,18 @@ export default class AboutSection extends Component {
                     </div>
                   </div>
                 </div>
+              </div>
+            </div>
+            <div className="row justify-content-center mb-5">
+              <div className="col-md-10 text-center">
+                <a
+                  href="https://pos.toasttab.com/"
+                  target="_blank"
+                  role="button"
+                  className="btn smoothscroll pb_outline-dark rounded-2 btn-xl pb_font-17 pb_letter-spacing-2 p-3"
+                >
+                  Order Now
+                </a>
               </div>
             </div>
           </div>
