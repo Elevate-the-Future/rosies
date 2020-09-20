@@ -64,8 +64,8 @@ export default class GallerySection extends Component {
                             </a>
                         </div>
                         <div className="card border-0 mb-4">
-                            <a href="assets/images/restaurant/1900x1200/img_3.jpg" className="pb_hover-zoom image-popup">
-                            <img className="img-fluid" src="assets/images/restaurant/1900x1200/img_3.jpg" alt="Image caption here" />
+                            <a href="assets/images/restaurant/1900x1200/img_3.JPG" className="pb_hover-zoom image-popup">
+                            <img className="img-fluid" src="assets/images/restaurant/1900x1200/img_3.JPG" alt="Image caption here" />
                             <i className="ion-ios-search-strong icon" />
                             </a>
                         </div>
