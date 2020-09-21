@@ -18,7 +18,7 @@ export default class LandingSection extends Component {
                 <h1 className="heading mb-3" style={{fontFamily: "'Dancing Script', 'cursive'"}}>Good Vibes. Better Food</h1>
                 <div className="sub-heading">
                   <p className="mb-5">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    Rosie’s is a pop-up concept offering a feel-good breakfast as well as a small but worth-well lunch selection.
                   </p>
                 </div>
                 <p>

@@ -60,9 +60,9 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-team"
+                    href="#section-gallery"
                   >
-                    The Team
+                    Gallery
                   </a>
                 </li>
                 <li className="nav-item logo-center d-xl-block d-lg-block d-md-none d-sm-none d-none">
@@ -90,9 +90,9 @@ export default class Navbar extends Component {
                 <li className="nav-item">
                   <a
                     className="nav-link text-uppercase pb_letter-spacing-2"
-                    href="#section-gallery"
+                    href="#section-team"
                   >
-                    Gallery
+                    The Team
                   </a>
                 </li>
                 <li className="nav-item">

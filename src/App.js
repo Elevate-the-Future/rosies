@@ -24,8 +24,8 @@ class App extends Component {
         <NavBar/>
         <LandingSection/>
         <MenuSection/>
-        <TeamSection/>
         <GallerySection/>
+        <TeamSection/>
         <ContactSection/>
         <Footer/>
       </>
