@@ -16,7 +16,7 @@ export default class TeamSection extends Component {
                         <div className="card border-0">
                             <img className="card-img-top" src="assets/images/persons/person_1.jpg" alt="Image caption here" />
                             <div className="card-body pb_p-40">
-                            <h4 className="card-title">Jane Doe</h4>
+                            <h4 className="card-title">Akino West and Jamila Ross</h4>
                             <p className="card-text">
                                 Akino and Jamila first started Copper Door Properties in 2017 as a gateway to a life on entrepreneurship. They established the corporation while maintaining full time jobs as hospitality professionals, together the couple has 30 years of hospitality, specific food &amp; beverage experience.</p>
                             <p className="card-text">
